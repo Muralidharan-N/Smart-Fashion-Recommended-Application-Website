@@ -1,4 +1,4 @@
-# Smart Fashion  
+# Smart Fashion Recommended Application Website  
 ![l](img/main/l.jpeg)  
 ## Table of contents  
 * [Quick Overview](#quick-overview)  

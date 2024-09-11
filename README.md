@@ -98,4 +98,39 @@ In collection, User can pick their clothings from women / men / accessories and 
 </kbd>  
 
 ###### Accessories  
+<kbd>
+<img src="https://user-images.githubusercontent.com/69050759/204438983-df912263-b6e6-4f08-9bb9-c93d01127b08.png">   
+</kbd>  
+
+#### Lookbook  
+A lookbook is a collection of photographs compiled to show off a model, photographer, style, stylist, or clothing line.  
+
+<kbd>
+<img src="https://user-images.githubusercontent.com/69050759/204439473-3e4acb2b-a8f6-4eb4-8b50-df212c5ff8cd.png">   
+</kbd>  
+
+#### Customer Care  
+Customer service is the support given to customers online. It is seen as a core driver of the company.  
+
+<kbd>
+<img src="https://user-images.githubusercontent.com/69050759/204440332-a5424335-aec6-4a26-9797-4bcc1865a2de.png">   
+</kbd>
+
+#### Search  
+* In search, when user searches for a product, using keyword the product shows up if available.  
+* User can also search based on Collection.  
+* User can also sort the product based on newest or prices.  
+
+<kbd>
+<img src="https://user-images.githubusercontent.com/69050759/204440600-afb0d6e9-414d-4c80-8cfb-6231866546dc.png">   
+</kbd>  
+
+#### Cart  
+* The products added by user will be displayed here.  
+* Total amount is calculated.  
+* User can checkout when they wish.  
+
+<kbd>
+<img src="https://user-images.githubusercontent.com/69050759/204440678-653c7766-9cad-4ca5-8495-9dd7ff781cde.png">   
+</kbd>  
 
